@@ -1,0 +1,15 @@
+{
+    "name": "andychou/custom-php-framework",
+    "authors": [
+        {
+            "name": "andychou",
+            "email": "ms0680146@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
