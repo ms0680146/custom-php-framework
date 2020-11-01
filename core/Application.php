@@ -4,6 +4,7 @@ namespace app\core;
 
 use app\core\Router;
 use app\core\Request;
+use app\core\Database;
 use app\core\Response;
 use app\core\Controller;
 
